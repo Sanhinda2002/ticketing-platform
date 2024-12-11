@@ -74,3 +74,11 @@ Release tickets by a vendor
 ```
 
 Stop the ticketing system
+
+## Logging
+
+All significant system events are logged in system.log:
+
+- Ticket reservations
+- System start/stop events
+- Configuration changes
